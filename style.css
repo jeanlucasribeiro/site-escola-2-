@@ -1,0 +1,16 @@
+header  
+.cabecalho-imagem{
+
+ width: 20%;
+
+} 
+.cabecalho-lista-imagem { 
+    display: inline-block;
+    margin: 0 16px;
+    
+background-color:  #07124e;
+color:white;  
+display:flex;  
+
+justify-content: space-around;
+}
